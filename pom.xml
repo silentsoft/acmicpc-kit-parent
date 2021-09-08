@@ -123,6 +123,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.silentsoft</groupId>
+            <artifactId>stopwatch</artifactId>
+            <version>2.2.0</version>
+        </dependency>
+        <dependency>
             <groupId>org.junit.platform</groupId>
             <artifactId>junit-platform-launcher</artifactId>
             <version>1.7.2</version>
